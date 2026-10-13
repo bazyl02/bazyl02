@@ -1,7 +1,9 @@
 # Mateusz Podgórski
-### **`Student and Engineer`**
+### **`Software Developer | M.Sc. in Applied Computer Science`**
 
-I'm a Master's student in Applied Computer Science at Lodz University of Technology. I'm specializing in Game Development and Computer Graphics.
+I'm a graduate of Lodz University of Technology, holding a Master's degree in Applied Computer Science with a specialization in Game Development and Computer Graphics.
+
+I'm passionate about software development, particularly computer graphics, game engines, and low-level programming. I'm currently looking for opportunities to begin my professional career and further develop my skills.
 
 ### Languages
 <img align="left" alt="C++" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -14,6 +16,7 @@ I'm a Master's student in Applied Computer Science at Lodz University of Technol
 #### Learning
 <img align="left" alt="React" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Vulkan" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vulkan/vulkan-original.svg" />
+<img align="left" alt="Vulkan" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 
 <br/>
 
